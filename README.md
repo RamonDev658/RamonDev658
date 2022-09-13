@@ -10,12 +10,13 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>  
+<br>
 <div align="block">
   <a href="https://github.com/ramondev658">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramondev658&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramondev658&langs_count=5&layout=compact&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
  </div>
-
+<br>
  [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&height=300&width=300&)](https://api.whatsapp.com/send?phone=5571999076079&text=Ol%C3%A1%2C%20Ramon%20te%20encontrei%20no%20GitHub%2C%20podemos%20conversar%3F)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramondev658/)
 
