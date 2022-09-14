@@ -1,5 +1,5 @@
 
- <img  alt="my-theme" src="https://drive.google.com/file/d/1hB7olBkLmjipxl63TVHzUh_d5NFOuwTx/view?usp=sharing">
+ <img  alt="my-theme" src="mytheme.jpg">
 ## Hi There, I'm Ramon Silva and this is my github.
 
 ✔I'm working hard with frontend development, improving my knowlegment each day.🏆<br>
