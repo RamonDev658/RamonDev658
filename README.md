@@ -1,5 +1,5 @@
 
- <img height="100" width="750" alt="my-theme" src="my theme.jpg">
+ <img height="200" width="1150" alt="my-theme" src="my theme.jpg">
 ## Hi There, I'm Ramon Silva and this is my github.
 
 ✔I'm working hard with frontend development, improving my knowlegment each day.🏆<br>
