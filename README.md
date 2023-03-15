@@ -5,10 +5,10 @@
 ## Hi There, I'm Ramon Silva and this is my github.
 
 
-✔I'm working hard with frontend development, improving my knowlegment each day.🏆<br>
-✔I'm currently a military studing HTML, CCS e JavaScript.📚<br>
-✔This world of programming is awesome.😎<br>
-✔I want to become a FullstackDev.🎯<br>
+✔I'm working hard with frontend development, improving my knowlegment each day.But I want to become a FullstackDev.🏆<br>
+✔I follow the military career at the moment, but I'm studying frontend applications hard.📚<br>
+✔The world of programming fascinates me.😎<br>
+
 <div align="block">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
