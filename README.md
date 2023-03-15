@@ -5,7 +5,8 @@
 ## Hi There, I'm Ramon Silva and this is my github.
 
 
-✔I'm working hard with frontend development, improving my knowlegment each day.But I want to become a FullstackDev.🏆<br>
+✔I'm working hard with frontend development, improving my knowlegment each day.<br>
+But I want to become a FullstackDev.🏆<br>
 ✔I follow the military career at the moment, but I'm studying frontend applications hard.📚<br>
 ✔The world of programming fascinates me.😎<br>
 
