@@ -29,7 +29,4 @@
 </div>
 
 ###
-<div aligh="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir)
-</div>
-###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir&width={width})
