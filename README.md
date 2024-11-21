@@ -30,13 +30,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RamonDev658/RamonDev658/output/snake.svg" alt="Snake animation" />
-
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RamonDev658/RamonDev658/output/snake.svg" alt="Snake animation" />
-
-###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir)
