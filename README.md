@@ -37,7 +37,7 @@
 <div align="center">
 
 
-  <img src="[https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula](https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir&unique={true|1|on|yes})"  height="165"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir&unique={true|1|on|yes}"  height="165"  />
 
 </div>
 
