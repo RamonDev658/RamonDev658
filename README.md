@@ -29,7 +29,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonDev658&layout=compact&theme=dracula"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula"  height="150"  />
 
 </div>
 
