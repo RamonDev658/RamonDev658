@@ -29,6 +29,8 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="css3 logo"  />
 </div>
+###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramondev658&layout=compact)
 
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir&unique={true|1|on|yes})
