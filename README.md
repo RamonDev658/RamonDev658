@@ -26,7 +26,7 @@
 </div>
 <div align="center">
 
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonDev658&layout=compact)"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonDev658&layout=compact)"  />
  
 
 </div>
