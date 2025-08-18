@@ -21,18 +21,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="css3 logo"  />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="css3 logo"  />
 
 </div>
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonDev658&layout=compact"  />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula"  />
 
 </div>
 
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonDev658&layout=compact)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir&unique={true|1|on|yes})
