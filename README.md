@@ -26,12 +26,6 @@
 </div>
 
 ###
-<div div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonDev658&size_weight=0.5&count_weight=0.5)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir&unique={true|1|on|yes})
-</div>
-###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonDev658&size_weight=0.5&count_weight=0.5)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir&unique={true|1|on|yes})
