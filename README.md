@@ -29,12 +29,17 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonDev658&layout=compact&theme=dracula"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula"  height="170"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula"  height="165"  />
 
 </div>
 
 ###
+<div align="center">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="[https://github-readme-stats.vercel.app/api?username=RamonDev658&theme=dracula](https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir&unique={true|1|on|yes})"  height="165"  />
+
+</div>
+
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir&unique={true|1|on|yes})
