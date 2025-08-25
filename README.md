@@ -34,12 +34,7 @@
 </div>
 
 ###
-<div align="center">
 
-
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=2jvp352ya2uablntdqrqp1pir&unique={true|1|on|yes}"  />
-
-</div>
 
 
 
